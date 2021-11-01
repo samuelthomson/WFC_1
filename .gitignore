@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# I think the hash is like a "comment" here????
+# see https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/
+# Blender backup files
+.blend1
